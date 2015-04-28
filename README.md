@@ -1,12 +1,10 @@
 # Charon
 
-This skript observes a list of feeds and sends new entries to an IRC channel. 
+This skript observes a list of feeds (RSS 2.0 only) and sends new entries to an IRC channel. 
 
 ## Depencies:
 
 - Python 2
-- irc ( https://pypi.python.org/pypi/irc )
-- feedparser ( https://pypi.python.org/pypi/feedparser )
 
 ## Installation
 
